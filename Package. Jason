@@ -1,5 +1,6 @@
 {
-  "name": "jarvis-backend",
+"type": "module",
+"name": "jarvis-backend",
   "version": "1.0.0",
   "scripts": {
     "start": "vercel dev"
